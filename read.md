@@ -1,5 +1,5 @@
 # YouTube Video Downloader with Python
-_used python to build a CLI version of YouTube video downloader. The program directly downloads the video using URL_
+_Used python to build a CLI version of a program to download YouTube videos. The program directly downloads the video using URL_
 
 ## Table of Contents
 -<a href="#overview">Overview</a>
